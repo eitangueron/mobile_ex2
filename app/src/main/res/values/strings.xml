@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Milab_Ex2</string>
+
+    <string-array name="dc_heros">
+        <item>Superman</item>
+        <item>Batman</item>
+        <item>Wonder Woman</item>
+        <item>The Flash</item>
+        <item>Green Lantern</item>
+        <item>Aquaman</item>
+    </string-array>
+
+    <string-array name="marvel_heros">
+        <item>Iron Man</item>
+        <item>Captin America</item>
+        <item>SpiderMan</item>
+        <item>Captin Marvel</item>
+        <item>Black Panther</item>
+        <item>Deal Pool</item>
+    </string-array>
+
+
+</resources>
